@@ -1,0 +1,9 @@
+[web_servers]
+nicole_dino@192.168.56.104
+ndino@192.168.56.107
+
+[db_servers]
+ndino@192.168.56.107
+
+[file_servers]
+nicole_dino@192.168.56.104
